@@ -1,9 +1,9 @@
 .gfg2{
-	margin:20px;
-	width:300px;
+	background-color:lightblue;
 	padding:50px;
-	border:15px solidblue;
-	background-color:blue;
+	width:300px;
+	border:15px solid blue;
+	margin:20px;
 	color:black;
 }
 /* Your CSS Code here. */
